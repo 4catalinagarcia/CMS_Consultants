@@ -3,7 +3,6 @@ import React from 'react';
 import Header from './components/Header';
 import Hero from './components/Hero';
 import Dashboard from './components/Dashboard';
-import Chatbot from './components/Chatbot';
 import Footer from './components/Footer';
 import { TEAM } from './constants';
 
@@ -80,8 +79,6 @@ const App: React.FC = () => {
             </div>
           </div>
         </section>
-
-        <Chatbot />
       </main>
 
       <Footer />

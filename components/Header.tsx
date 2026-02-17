@@ -17,7 +17,6 @@ const Header: React.FC = () => {
             <a href="#challenge" className="text-gray-600 hover:text-fau-blue font-medium transition-colors">The Challenge</a>
             <a href="#metrics" className="text-gray-600 hover:text-fau-blue font-medium transition-colors">Insights</a>
             <a href="#team" className="text-gray-600 hover:text-fau-blue font-medium transition-colors">The Team</a>
-            <a href="#chat" className="bg-fau-blue text-white px-5 py-2 rounded-full hover:bg-opacity-90 transition-all font-semibold">Consult AI</a>
           </nav>
           <div className="md:hidden">
             <button className="text-fau-blue">
