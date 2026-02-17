@@ -1,0 +1,8 @@
+{
+  "name": "CMS Consultants - FAU Case Study",
+  "description": "Professional landing page for CMS Consultants showcasing the International Materials Inc supply chain case study for Florida Atlantic University.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
