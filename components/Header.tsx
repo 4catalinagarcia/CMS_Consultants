@@ -13,10 +13,7 @@ const Header: React.FC = () => {
             </div>
           </div>
           <nav className="hidden md:flex space-x-8">
-            <a href="#about" className="text-gray-600 hover:text-fau-blue font-medium transition-colors">About</a>
-            <a href="#challenge" className="text-gray-600 hover:text-fau-blue font-medium transition-colors">The Challenge</a>
-            <a href="#metrics" className="text-gray-600 hover:text-fau-blue font-medium transition-colors">Insights</a>
-            <a href="#team" className="text-gray-600 hover:text-fau-blue font-medium transition-colors">The Team</a>
+            <a href="#team" className="text-gray-600 hover:text-fau-blue font-medium transition-colors border-b-2 border-transparent hover:border-fau-red pb-1">The Team</a>
           </nav>
           <div className="md:hidden">
             <button className="text-fau-blue">

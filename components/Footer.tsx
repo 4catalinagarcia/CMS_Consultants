@@ -37,7 +37,7 @@ const Footer: React.FC = () => {
           </div>
         </div>
         <div className="pt-12 border-t border-white border-opacity-10 text-center text-sm text-blue-300">
-          <p>© 2024 CMS Consultants. All rights reserved. Prepared for FAU Supply Chain Management Practicum.</p>
+          <p>© 2026 CMS Consultants. All rights reserved. Prepared for FAU Supply Chain Management Practicum.</p>
         </div>
       </div>
     </footer>

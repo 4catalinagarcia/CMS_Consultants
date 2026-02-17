@@ -15,7 +15,7 @@ const Hero: React.FC = () => {
         <div className="lg:grid lg:grid-cols-2 lg:gap-8 items-center">
           <div>
             <div className="inline-flex items-center px-4 py-1.5 rounded-full text-sm font-semibold tracking-wide uppercase bg-fau-red text-white mb-6">
-              Official FAU Case Study 2024
+              Official FAU Case Study 2026
             </div>
             <h1 className="text-4xl md:text-6xl font-serif font-bold text-white leading-tight mb-6">
               Optimizing Global Logistics for <span className="text-fau-red italic">International Materials Inc.</span>
@@ -24,11 +24,8 @@ const Hero: React.FC = () => {
               CMS Consultants presents a comprehensive supply chain strategy for IMI, leveraging data-driven insights to transform maritime operations and bulk commodity trading efficiency.
             </p>
             <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
-              <a href="#metrics" className="inline-flex justify-center items-center px-8 py-4 border border-transparent text-lg font-bold rounded-md text-fau-blue bg-white hover:bg-blue-50 transition-colors shadow-lg">
-                View Key Results
-              </a>
-              <a href="#about" className="inline-flex justify-center items-center px-8 py-4 border-2 border-white text-lg font-bold rounded-md text-white hover:bg-white hover:text-fau-blue transition-all">
-                The Case Methodology
+              <a href="#team" className="inline-flex justify-center items-center px-8 py-4 border border-transparent text-lg font-bold rounded-md text-fau-blue bg-white hover:bg-blue-50 transition-colors shadow-lg">
+                Meet The Team
               </a>
             </div>
           </div>
