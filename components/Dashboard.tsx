@@ -2,9 +2,9 @@
 import React from 'react';
 import { 
   BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, 
-  LineChart, Line, AreaChart, Area 
+  AreaChart, Area 
 } from 'recharts';
-import { CHART_DATA, METRICS } from '../constants';
+import { CHART_DATA, METRICS } from '../constants.tsx';
 
 const Dashboard: React.FC = () => {
   return (

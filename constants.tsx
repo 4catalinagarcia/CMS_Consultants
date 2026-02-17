@@ -1,5 +1,5 @@
 
-import { CaseMetric, SupplyChainData, TeamMember } from './types';
+import { CaseMetric, SupplyChainData, TeamMember } from './types.ts';
 
 export const FAU_COLORS = {
   blue: '#003366',

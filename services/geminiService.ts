@@ -1,6 +1,6 @@
 
 import { GoogleGenAI } from "@google/genai";
-import { CASE_STUDY_PROMPT } from "../constants";
+import { CASE_STUDY_PROMPT } from "../constants.tsx";
 
 const getAI = () => new GoogleGenAI({ apiKey: process.env.API_KEY || '' });
 
